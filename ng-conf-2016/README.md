@@ -4,7 +4,7 @@
 
 
 ## 第一天議程
-1.01 Keynote 1  
+[1.01 Keynote 1](./101_Keynote-1.md)  
 1.02 An Angular 2 Force Awakens  
 1.03 Angular 2's Fresh Approach to Style  
 1.04 TypeScript: Angular 2's Secret Weapon  
