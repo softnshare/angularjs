@@ -7,7 +7,7 @@
 [1.01 Keynote 1](./101_Keynote-1.md)  
 1.02 An Angular 2 Force Awakens  
 1.03 Angular 2's Fresh Approach to Style  
-1.04 TypeScript: Angular 2's Secret Weapon  
+[1.04 TypeScript: Angular 2's Secret Weapon](./104_TypeScript-Angular2-Secret-Weapon.md)
 1.05 Angular 2 Universal Patterns  
 1.06 Adjusting the Dials in the Circuits of the Human Brain with Deep Brain Stimulation  
 1.07 Routing  
