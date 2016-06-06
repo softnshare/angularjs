@@ -38,3 +38,7 @@
 2. 技術教學：
   - 使用 TypeScript 駕馭 Web 世界的脫韁野馬：以 Angular 2 開發框架為例 （[投影片](http://www.slideshare.net/WillHuangTW/develop-angular-2-application-using-type-script)、[影片](https://channel9.msdn.com/Events/AzureDevDay/2016/A02)） by 黃保翕
   - [React vs Angular2](https://www.youtube.com/watch?v=66_QSaB84z8)
+  
+  
+## 使用github issue寫微部落格
+如果您有撰寫AngularJS開發心得相關文章, 想要與slack channel中的網友分享, 可以透過[github issue](https://github.com/softnshare/angularjs/issues)來發佈你的心得分享, 發佈後會同步到slack channel , 要加入分享行列請來信與我聯絡 my@esast.com 請註明AngularJS 
