@@ -40,5 +40,5 @@
   - [React vs Angular2](https://www.youtube.com/watch?v=66_QSaB84z8)
   
   
-## 使用github issue寫微部落格
+## 4. 使用github issue寫微部落格
 如果您有撰寫AngularJS開發心得相關文章, 想要與slack channel中的網友分享, 可以透過[github issue](https://github.com/softnshare/angularjs/issues)來發佈你的心得分享, 發佈後會同步到slack channel , 要加入分享行列請來信與我聯絡 my@esast.com 請註明AngularJS 
